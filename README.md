@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Naren-ks-hub/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Naren-ks-hub/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Naren-ks-hub/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Naren-ks-hub/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Naren-ks-hub/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
